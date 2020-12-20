@@ -18,7 +18,7 @@ npm run dev
 ```
 ### Running with Docker:
 #### Docker Image
-the image is saved on dockerhub as 
+the image is automated Builded on dockerhub as the name:
 ```
 trichi/mon-cv
 ```
