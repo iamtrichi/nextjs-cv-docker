@@ -2,21 +2,18 @@
 Resume website with NextJS and Docker by Oussema Trichi
 
 
-[TOC]
-
-
 ### to install it locally without Docker:
-```npm
+```bash
 git clone https://github.com/iamtrichi/nextjs-cv-docker.git
 cd nextjs-cv-docker
 npm i
 ```
 ##### on development:
-```npm
+```bash
 npm run dev
 ```
 ##### on production:
-```npm
+```bash
 npm run dev
 ```
 ### Running with Docker:
