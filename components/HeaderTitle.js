@@ -9,6 +9,7 @@ export default ({color}) => (
     <div className="is-hidden-touch">
         <Typist cursor={cursor}>
             I'm <span>Tri</span>chi
+            
         </Typist>
         <style jsx>{`
             div {
