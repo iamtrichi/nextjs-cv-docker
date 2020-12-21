@@ -14,7 +14,8 @@ npm run dev
 ```
 ##### on production:
 ```bash
-npm run dev
+npm run build
+npm run start
 ```
 ### Running with Docker:
 #### Docker Image
